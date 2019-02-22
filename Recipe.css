@@ -1,0 +1,33 @@
+body{
+    background-color: lightsteelblue,
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(48, 22, 22);
+    text-align: center;
+    font-size: 60px;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(48, 22, 22);
+    text-align: center;
+    font-size: 30px;
+}
+ul.d{
+    list-style-type: square;
+    color:rgb(48, 22, 22);
+    text-align: justify;
+    font-size: 20px;
+}
+ul.e{
+    list-style-type: square;
+    color:rgb(48, 22, 22);
+    text-align: justify;
+    font-size: 20px;
+}
+ul.m{
+    list-style-type: square;
+    color:rgb(48, 22, 22);
+    text-align: justify;
+    font-size: 20px;
+}
